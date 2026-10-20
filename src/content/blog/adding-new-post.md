@@ -3,7 +3,7 @@ author: M.
 pubDatetime: 2026-10-20
 modDatetime: 2026-10-20
 title: Math Ai formula booklet
-slug: adding-new-posts-in-astropaper-theme
+slug: math-ai-formula-booklet
 featured: true
 draft: true
 tags:

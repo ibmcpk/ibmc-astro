@@ -1,6 +1,6 @@
 ---
 author: M.
-pubDatetime: 2026-10-20
+pubDatetime: 2026-06-23
 modDatetime: 2026-10-20
 title: Math Ai formula booklet
 slug: math-ai-formula-booklet

@@ -2,7 +2,7 @@
 author: M.
 pubDatetime: 2026-10-20
 modDatetime: 2026-10-20
-title: Customizing AstroPaper theme color schemes
+title: Math Ai SL syllabus (last examination 2027)
 ogImage: Math Ai SL syllabus (last examination 2027)
 slug: math-ai-sl-syllabus-last-examination-2027
 featured: false

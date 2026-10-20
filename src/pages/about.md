@@ -14,6 +14,10 @@ Practice Questions, Formula Booklets, and ...
 
 kindly fill in the form to register for a demo class
 
+### Register for the class
+
+[https://tally.so/embed/n0vQgZ](https://tally.so/embed/n0vQgZ)
+
 ## Notes
 
 none as yet

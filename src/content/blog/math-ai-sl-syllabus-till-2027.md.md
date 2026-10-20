@@ -12,8 +12,7 @@ tags:
   - math-ai
   - syllabus
   - resource
-description: How you can enable/disable light & dark mode; and customize color
-  schemes of AstroPaper theme.
+description: "Math Ai standard level SL complete syllabus document "
 ---
 [Math Ai SL syllabus complete document](https://drive.google.com/file/d/1GQ5CPeFUD6mnO_oCDxERy9p0gbbxPPnI/view) 
 

@@ -21,7 +21,7 @@ content:
       - { name: description, label: Description, type: string }
       - { name: body, label: Body, type: rich-text }
   - name: about
-    label: About page
+    label: About
     type: file
     path: src/pages/about.md
     fields:

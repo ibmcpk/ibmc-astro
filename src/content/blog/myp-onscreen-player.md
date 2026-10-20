@@ -3,7 +3,7 @@ author: M.
 pubDatetime: 2026-10-06
 modDatetime: 2026-10-20
 title: MYP onscreen assessment player links
-slug: dynamic-og-image-generation-in-astropaper-blog-posts
+slug: myp-onscreen-assessment-player
 featured: false
 draft: false
 tags:

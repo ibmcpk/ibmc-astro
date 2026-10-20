@@ -8,6 +8,9 @@ featured: false
 draft: false
 tags:
   - ibmyp
+  - formula booklet
+  - resources
+description: myp mathematics formula booklet
 ---
 MYP math formula booklet pdf
 

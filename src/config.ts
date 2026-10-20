@@ -3,8 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://ibmc.pk/", // replace this with your deployed domain
   author: "IBMC",
-  desc: "Description: tuition center focusing on IB subjects, digital SAT, and Alevels sciences. Special focus on helping students receive customized support. resulting in reduction in learning time and effort. student wellbeing is priotrized. working in education for over 25 years.
-",
+  desc: "tuition center focusing on IB subjects, digital SAT, and Alevels sciences. website hosts subject resources including formula booklets, question banks and notes.",
   title: "IB Math Center",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,

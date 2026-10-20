@@ -4,8 +4,8 @@ pubDatetime: 2026-10-20
 modDatetime: 2026-10-20
 title: Math Ai formula booklet
 slug: math-ai-formula-booklet
-featured: true
-draft: true
+featured: false
+draft: false
 tags:
   - resource
   - Math Ai

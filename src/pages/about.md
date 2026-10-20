@@ -1,36 +1,20 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: About
 ---
+#  [IBMC.pk](http://IBMC.pk) is a resource for language, math and science subjects
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+At IB Math Center Lahore, we provide personalized tuition in IB subjects, digital SAT, and Alevels sciences, tailored to reduce learning time and effort. With over 25 years of experience, we prioritize student wellbeing and academic excellence. Join us to achieve your educational goals with customized support.
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Practice Questions, Formula Booklets...
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## Join a Demo class
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+[https://tally.so/embed/mO6JBK](https://tally.so/embed/mO6JBK)
 
-## Tech Stack
+kindly fill in the form to register for a demo class
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+## Notes
 
-## Features
+none as yet
 
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).

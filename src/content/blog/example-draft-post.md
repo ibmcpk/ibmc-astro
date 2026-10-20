@@ -1,21 +1,22 @@
 ---
-title: Example Draft Post
-author: Sat Naing
-pubDatetime: 2022-06-06T04:06:31Z
-slug: example-draft-post
+author: M.
+pubDatetime: 2026-10-20
+modDatetime: 2026-10-20
+title: Math Ai SL question bank
+slug: math-ai-sl-question-bank
 featured: false
-draft: true
+draft: false
 tags:
-  - TypeScript
-  - Astro
-description:
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel
-  fringilla est
+  - IBDP
+  - Math Ai
+  - resources
+  - question bank
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum
+  facilisis leo vel fringilla est
 ---
+Practice question bank for Math Ai SL course
 
-Users cannot see this post because it is in draft.
+### SL 2.0 Functions
 
-## Motivation
-
-rec 1
+[google drive link](https://docs.google.com/document/d/1aNhsRopqPgfZyEnNa-Eyt8F1uSP5YXfwCiBquu_WXOM/edit?usp=sharing)

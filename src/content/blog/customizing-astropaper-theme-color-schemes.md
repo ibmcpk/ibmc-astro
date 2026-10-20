@@ -6,9 +6,14 @@ title: Customizing AstroPaper theme color schemes
 ogImage: Math Ai SL syllabus (last examination 2027)
 slug: math-ai-sl-syllabus-last-examination-2027
 featured: false
-draft: true
+draft: false
 tags:
+  - ibdp
   - math-ai
+  - syllabus
+  - resource
 description: How you can enable/disable light & dark mode; and customize color
   schemes of AstroPaper theme.
 ---
+[Math Ai SL syllabus complete document](https://drive.google.com/file/d/1GQ5CPeFUD6mnO_oCDxERy9p0gbbxPPnI/view) 
+

@@ -12,7 +12,7 @@ Subject resources are available in posts for various IB DP MYP groups that we te
 
 [https://tally.so/embed/mO6JBK](https://tally.so/embed/mO6JBK)
 
-### Register for the class
+### Register for tuition
 
 [https://tally.so/embed/n0vQgZ](https://tally.so/embed/n0vQgZ)
 

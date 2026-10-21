@@ -2,9 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: About
 ---
-# [IBMC.pk](http://IBMC.pk)
-
-## a resource for language, math and science subjects
+## a place for language, math and science subjects
 
 Subject resources are available in posts for various IB DP MYP groups that we teach on a regular basis. 
 

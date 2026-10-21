@@ -1,7 +1,7 @@
 ---
 author: M.
 pubDatetime: 2026-10-06
-modDatetime: 2026-10-20
+modDatetime: 2026-10-21
 title: MYP onscreen assessment player links
 slug: myp-onscreen-assessment-player
 featured: false
@@ -30,6 +30,6 @@ Any 5 digit number can be used as the school code upon starting it for the 1st t
 
 [https://eassessment.ibo.org/response-upload](https://eassessment.ibo.org/response-upload/)
 
-> **r3sp!<program name uppercase>**
+> **r3sp!**<program name uppercase>
 
 Use the login key above to access the portal. Upload your response file, then wait for an email with the PDF. It should arrive in about an hour. You can upload multiple response files at once.

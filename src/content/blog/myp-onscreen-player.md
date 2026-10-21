@@ -25,3 +25,11 @@ The eAssessment Player is the application MYP students use to open and complete 
 [https://eassessment-admin.ibo.org/player/mac](https://eassessment-admin.ibo.org/player/mac)
 
 Any 5 digit number can be used as the school code upon starting it for the 1st time.
+
+## Getting my answers from response file
+
+[https://eassessment.ibo.org/response-upload](https://eassessment.ibo.org/response-upload/)
+
+> **r3sp!<program name uppercase>**
+
+Use the login key above to access the portal. Upload your response file, then wait for an email with the PDF. It should arrive in about an hour. You can upload multiple response files at once.

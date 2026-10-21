@@ -7,7 +7,7 @@ export const SITE: Site = {
   title: "IB Math Center",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
-  postPerPage: 3,
+  postPerPage: 7,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
 };
 

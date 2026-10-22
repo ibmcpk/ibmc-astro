@@ -70,3 +70,4 @@ This investigation can model the surface area and volume of a lake or reservoir.
 
 ### `6.0 Appendices`
 
+*[sample investigation download](https://drive.google.com/file/d/1beHxsruwugm3g4ZrFjyQUkKw5YlnHgB_/view?usp=sharing)*

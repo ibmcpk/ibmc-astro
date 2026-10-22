@@ -75,3 +75,4 @@ This investigation looks at how surface area changes the time something takes. Y
 
 ## `6.0 Appendices`
 
+[sample investigation download - surface area and time](https://drive.google.com/file/d/1Htk1D3bkcFEIOml-ATBsndHHtf71ZLNg/view?usp=drive_link)

@@ -8,6 +8,8 @@ featured: false
 draft: false
 tags:
   - math
+  - syllabus
+  - myp
 description: syllabus for myp math eassessment
 ---
 ### **MYP math syllabus**

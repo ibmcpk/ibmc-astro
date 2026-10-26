@@ -6,6 +6,8 @@ title: MYP math syllabus
 slug: myp-math-syllabus
 featured: false
 draft: false
+tags:
+  - math
 description: syllabus for myp math eassessment
 ---
 ### **MYP math syllabus**

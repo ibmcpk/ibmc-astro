@@ -4,15 +4,12 @@ title: About
 ---
 ## a place for language, math and science subjects
 
-Subject resources are available in posts for various IB DP MYP groups that we teach on a regular basis. 
+Subject resources are available in posts for various IB DP MYP groups that we teach on a regular basis.
 
-### Join a Demo class
+Change log
 
-[https://tally.so/embed/mO6JBK](https://tally.so/embed/mO6JBK)
-
-### Register for tuition
-
-[https://tally.so/embed/n0vQgZ](https://tally.so/embed/n0vQgZ)
+- ibdp math investigation roadmaps added (topic: volume)
+- updated syllabus for myp and ibdp math
 
 ## Notes
 

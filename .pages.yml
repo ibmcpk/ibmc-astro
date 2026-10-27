@@ -33,6 +33,6 @@ content:
     type: file
     path: src/pages/join.md
     fields:
-      - { name: layout, type: string, hidden: true, default: "../layouts/AboutLayout.astro" }
+      - { name: layout, type: string, hidden: true, default: "../layouts/JoinLayout.astro" }
       - { name: title, label: Title, type: string }
       - { name: body, label: Body, type: rich-text, options: { input: public/assets, output: /assets } }

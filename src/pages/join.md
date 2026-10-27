@@ -2,7 +2,7 @@
 layout: ../layouts/AboutLayout.astro
 title: Join IBMC
 ---
-### ***Join a Demo class***
+### ***Join a demo class***
 
 ++**[https://tally.so/embed/mO6JBK](https://tally.so/embed/mO6JBK)**++
 

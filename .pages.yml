@@ -1,8 +1,8 @@
-src:
-  input: src
-  output: /
 media:
   input: public
+  output: /
+src:
+  input: src
   output: /
 content:
   - name: posts

@@ -1,3 +1,6 @@
+src:
+  input: src
+  output: /
 media:
   input: public
   output: /

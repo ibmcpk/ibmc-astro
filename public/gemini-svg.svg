@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="100%" height="100%">
+  <defs>
+    <clipPath id="circle-clip">
+      <circle cx="200" cy="200" r="190" />
+    </clipPath>
+  </defs>
+
+  <!-- Circular Base Badge -->
+  <circle cx="200" cy="200" r="190" fill="#0056B3" />
+
+  <!-- Logo Typography & Mark Inside Badge -->
+  <g clip-path="url(#circle-clip)">
+    <!-- IB Section (Top Left) -->
+    <g transform="translate(45, 90)">
+      <!-- Pen/Pencil NIB Icon replacing/integrated into 'I' stem -->
+      <path d="M 12,120 L 12,30 L 22,10 L 32,30 L 32,120 Z" fill="#FFFFFF" />
+      <line x1="22" y1="10" x2="22" y2="70" stroke="#0056B3" stroke-width="3" />
+      <circle cx="22" cy="70" r="4" fill="#0056B3" />
+
+      <!-- Letter 'B' -->
+      <path d="M 65,10 H 125 C 150,10 165,22 165,42 C 165,56 155,66 140,71 C 160,76 172,88 172,106 C 172,128 152,140 125,140 H 65 Z 
+               M 98,34 V 58 H 120 C 128,58 134,53 134,46 C 134,39 128,34 120,34 Z 
+               M 98,82 V 116 H 124 C 133,116 140,110 140,99 C 140,88 133,82 124,82 Z" fill="#FFFFFF" />
+    </g>
+
+    <!-- MC Section (Bottom Right) -->
+    <g transform="translate(45, 210)">
+      <!-- Letter 'M' -->
+      <path d="M 5,170 V 10 H 40 L 82,105 L 124,10 H 159 V 170 H 126 V 65 L 89,150 H 75 L 38,65 V 170 Z" fill="#FFFFFF" />
+
+      <!-- Letter 'C' -->
+      <path d="M 320,55 C 305,25 272,5 230,5 C 175,5 140,48 140,105 C 140,162 175,205 230,205 C 275,205 308,182 323,150 L 290,132 C 280,152 258,168 230,168 C 196,168 174,140 174,105 C 174,70 196,42 230,42 C 258,42 278,57 288,76 Z" fill="#FFFFFF" />
+    </g>
+  </g>
+</svg>

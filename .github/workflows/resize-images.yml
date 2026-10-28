@@ -1,0 +1,23 @@
+name: Resize Images
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    name: Github Action Image Resizing
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Resize Images
+        uses: gonzalonaveira/gh-image-resizing@master
+        with:
+          IMAGES_MAX_WIDTH: "800"
+          IMAGES_QUALITY: "85"
+          IMAGES_FORMATS: "jpg,jpeg,png"
+          IMAGES_DIRECTORIES: "public" # Change this to the folder where your images are stored

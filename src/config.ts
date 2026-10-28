@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "IBMC",
   desc: "tuition center focusing on IB subjects, digital SAT, and Alevels sciences. website hosts subject resources including formula booklets, question banks and notes.",
   title: "IB Math Center",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "og_ibmcpk.svg",
   lightAndDarkMode: true,
   postPerPage: 7,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes

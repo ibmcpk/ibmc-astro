@@ -1,7 +1,7 @@
 media:
   input: public
   output: /
-src:
+media:
   input: src
   output: /
 content:

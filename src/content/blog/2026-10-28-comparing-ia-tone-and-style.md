@@ -16,6 +16,10 @@ If you are looking to cook qorma, for any random reason, then Pyaz (onion) is an
 
 Lets say this is the step in your Qorma iA journey. One student gets a 10/20 while the other ends up with 17/20. How would this one little writeup in the iA lead to setting the tone and style?
 
+Now, lets look at two Qorma iAs. 
+
+One where the student has done excellent math with everything labeled and stated. The other where the student has taken their time to add commentary about the process of exploring a Qorma.
+
 ### Qorma A - Food fusion (10/20)
 
 [https://youtu.be/9jOH3TEB-NI?t=6](https://youtu.be/9jOH3TEB-NI?t=6)

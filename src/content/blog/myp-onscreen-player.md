@@ -7,7 +7,7 @@ slug: myp-onscreen-assessment-player
 featured: false
 draft: false
 tags:
-  - IBMYP
+  - myp
   - eassessments
   - apps
 description: onscreen e-assessment software/app link for MYP exams
@@ -30,6 +30,6 @@ Any 5 digit number can be used as the school code upon starting it for the 1st t
 
 [https://eassessment.ibo.org/response-upload](https://eassessment.ibo.org/response-upload/)
 
-> **r3sp!**<program name uppercase>
+> **r3sp!****
 
 Use the login key above to access the portal. Upload your response file, then wait for an email with the PDF. It should arrive in about an hour. You can upload multiple response files at once.

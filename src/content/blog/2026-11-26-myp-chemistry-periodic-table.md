@@ -2,8 +2,8 @@
 author: M.
 pubDatetime: 2026-11-26
 modDatetime: 2026-11-26
-title: MYP chemistry periodic table
-ogImage: MYP chemistry periodic table
+title: MYP official chemistry periodic table
+ogImage: MYP official chemistry periodic table
 slug: myp-chemistry-periodic-table
 featured: false
 draft: false

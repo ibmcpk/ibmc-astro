@@ -7,7 +7,7 @@ slug: myp-math-formula-booklet
 featured: false
 draft: false
 tags:
-  - ibmyp
+  - myp
   - formula booklet
   - resources
 description: myp mathematics formula booklet

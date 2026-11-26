@@ -7,7 +7,7 @@ slug: math-ai-formula-booklet
 featured: false
 draft: false
 tags:
-  - resource
+  - formula booklet
   - Math Ai
   - IBDP
 description: IBDP math Ai formula booklet for both SL and HL courses

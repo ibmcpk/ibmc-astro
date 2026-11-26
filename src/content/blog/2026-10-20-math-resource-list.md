@@ -6,6 +6,10 @@ title: Math resource list
 slug: math-resource-list
 featured: false
 draft: false
+tags:
+  - math
+  - myp
+  - ibdp
 description: general mathematics resources
 ---
 ### **1000s of Math practice questions**
